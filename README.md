@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... actually a professional dancer >.>
 -->
 
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKonopelko)](https://github.com/RomanKonopelko/github-readme-stats)
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKonopelko&show_icons=true&theme=radical)](https://github.com/RomanKonopelko/github-readme-stats)
