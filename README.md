@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Roman, junior front-end developer! 
 
 - 🔭 I’m currently working on ... improving CORE.JS knowledge 
-- 🌱 I’m currently learning ... REACT.js
+- 🌱 I’m currently learning ... NODE.js
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... romank761@gmail.com
 - ⚡ Fun fact: ... actually a professional dancer >.>
