@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🔭 I’m currently working on ... improving CORE.JS knowledge 
-- 
 - 🌱 I’m currently learning ... NODE.js
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... romank761@gmail.com
