@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Roman, junior front-end developer! 
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 - 🔭 I’m currently working on ... improving CORE.JS knowledge 
 - 🌱 I’m currently learning ... NODE.js
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... romank761@gmail.com
 - ⚡ Fun fact: ... actually a professional dancer >.>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
