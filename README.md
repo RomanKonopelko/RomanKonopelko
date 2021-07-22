@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Roman, junior front-end developer! 
+### Hi there 👋 I'm Roman, junior full-stack developer! 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
