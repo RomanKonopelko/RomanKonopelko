@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+[giphy](https://user-images.githubusercontent.com/68011362/126866302-a5fc94eb-0d72-48e1-8dcd-f5574de57c5b.gif)
 
 ### Hi there 👋 I'm Roman, junior full-stack developer! 
 
