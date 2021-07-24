@@ -20,5 +20,6 @@
 
 
 [![Roman's GitHub stats]
-[![Top Langs]![languages](https://user-images.githubusercontent.com/68011362/126866053-9740cebf-80b4-434d-9a46-a00d349af923.gif)
+[![Top Langs]![](https://raw.githubusercontent.com/RomanKonopelko/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/RomanKonopelko/github-stats-transparent/output/generated/languages.svg)
 
