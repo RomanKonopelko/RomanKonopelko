@@ -19,5 +19,5 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>  
 
 
-[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKonopelko&show_icons=true&theme=gruvbox)](https://github.com/RomanKonopelko/github-readme-stats)
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKonopelko&show_icons=true&theme=transparent)](https://github.com/RomanKonopelko/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKonopelko&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/RomanKonopelko/github-readme-stats)
