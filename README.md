@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Roman, junior full-stack developer! 
 
 - 🔭 I’m currently working on ... improving CORE.JS knowledge 
-- 🌱 I’m currently learning ... NODE.js
+- 🌱 I’m currently learning ... Typescript
 - 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... romank761@gmail.com
 - ⚡ Fun fact: ... actually a professional dancer >.>
