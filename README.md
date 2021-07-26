@@ -32,5 +32,5 @@
 <a href="https://www.linkedin.com/in/roman-konopelko-b78668189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/roman_dmitrovich/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href=" http://m.me/RomanKonopelko95"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"></a>
-<p align='center'><img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=for-the-badge" alt="views" /> </p>
+<p align='center'><img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat-square" alt="views" /> </p>
 
