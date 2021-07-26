@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... improving CORE.JS knowledge 
 - 🌱 I’m currently learning ... Typescript
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... romank761@gmail.com
+- 📫 How to reach me: ...All the links are below!
 - ⚡ Fun fact: ... actually a professional dancer >.>
 
 ### 🔨 Languages and Tools:
@@ -31,6 +31,6 @@
 <a href="mailto:romank761@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/roman-konopelko-b78668189/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 <a href="https://www.instagram.com/roman_dmitrovich/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discordapp.com/users/324999831024173076/"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"></a>
-<p align='center'><img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> </p>
+<a href=" http://m.me/RomanKonopelko95"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"></a>
+<p align='center'><img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=for-the-badge" alt="views" /> </p>
 
