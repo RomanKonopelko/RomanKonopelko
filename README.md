@@ -21,11 +21,7 @@
 ### :trollface: Github activity:
 
 ![Roman's GitHub stats](https://raw.githubusercontent.com/RomanKonopelko/github-stats-transparent/output/generated/overview.svg)
-<img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> 
-<img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> 
-<img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> 
-<img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> 
-<img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> 
-<img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> 
 ![Top Langs](https://raw.githubusercontent.com/RomanKonopelko/github-stats-transparent/output/generated/languages.svg)
+
+<p style=""text-align=center><img src="https://komarev.com/ghpvc/?username=RomanKonopelko&label=Profile%20views&color=red&style=flat" alt="views" /> </p>
 
