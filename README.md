@@ -23,7 +23,8 @@
 ![Roman's GitHub stats](https://raw.githubusercontent.com/RomanKonopelko/github-stats-transparent/output/generated/overview.svg)
 ![Top Langs](https://raw.githubusercontent.com/RomanKonopelko/github-stats-transparent/output/generated/languages.svg)
 
-### How to reach me: 
+### 	:phone: How to reach me: 
+
 <a href="https://discordapp.com/users/324999831024173076/"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=for-the-badge" alt="Discord"></a>
 <a href="https://wa.me/380660905200"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
  alt="WhatsApp"></a>
