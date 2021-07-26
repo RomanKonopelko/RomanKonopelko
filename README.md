@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68011362/126866302-a5fc94eb-0d72-48e1-8dcd-f5574de57c5b.gif" width="350px"/>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roman, junior full-stack developer! 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Roman, full-stack developer! 
 
 - 🔭 I’m currently working on ... improving CORE.JS knowledge 
 - 🌱 I’m currently learning ... Typescript
